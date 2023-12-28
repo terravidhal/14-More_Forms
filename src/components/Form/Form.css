@@ -1,0 +1,10 @@
+.Form {
+    width: 400px;
+    margin: 50px auto;
+}
+form{
+    padding-bottom: 30px;
+}
+form >div{
+    padding-bottom: 10px;
+}
